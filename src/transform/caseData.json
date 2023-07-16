@@ -1,0 +1,99 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "imgPath": "/assets/img/1.jpg",
+      "caseId": "1234",
+      "name": "Ali Abdul",
+      "email": "aliabdul@gmail.com",
+      "address": "21, Jalan PJS7/17, 46150 Selangor, Malaysia",
+      "locationHistory": [
+        {
+          "startDate": "1990/01/01",
+          "location": "Prague",
+          "endDate": "1991/12/31"
+        },
+        {
+          "startDate": "1992/01/01",
+          "location": "Paris",
+          "endDate": "1996/12/31"
+        },
+        {
+          "startDate": "1997/01/01",
+          "location": "Istanbul",
+          "endDate": "2005/12/31"
+        }
+      ],
+      "mentions": [
+        {
+          "mentionedCaseId": "1235",
+          "source": "Facebook mention"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgPath": "/assets/img/2.jpg",
+      "caseId": "1235",
+      "name": "Murugayan Ramachandra a/l Mutahir Somasundram",
+      "email": "murugayan@gmail.com",
+      "address": "28 Jln Molek 2/39 Taman Molek, 81100 Johor, Malaysia",
+      "locationHistory": [
+        {
+          "startDate": "1990/01/01",
+          "location": "Berlin",
+          "endDate": "2007/12/31"
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": 3,
+      "imgPath": "/assets/img/3.jpg",
+      "caseId": "1236",
+      "name": "Khu Sio Soh",
+      "email": "khusiosoh@gmail.com",
+      "address": "No 18 Block B Jalan Subang 3, 47610 Selangor, Malaysia",
+      "locationHistory": [
+        {
+          "startDate": "1991/01/01",
+          "location": "Paris",
+          "endDate": "2005/12/31"
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": 4,
+      "imgPath": "/assets/img/4.jpg",
+      "caseId": "1237",
+      "name": "Nur Rusyda binti Syed Hafizam",
+      "email": "nurrusyda@hotmail.com",
+      "address": "19, Jalan 14, Desa Jaya Kepong, 52100 Kuala Lumpur, Malaysia",
+      "locationHistory": [
+        {
+          "startDate": "1997/01/01",
+          "location": "Berlin",
+          "endDate": "2007/12/31"
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": 5,
+      "imgPath": "/assets/img/5.jpg",
+      "caseId": "1238",
+      "name": "Lee Chen Chun",
+      "email": "chenchunlee@gmail.com",
+      "address": "33 Jln Genting Kelang, 53200 Kuala Lumpur, Malaysia",
+      "locationHistory": [
+        {
+          "startDate": "1995/01/01",
+          "location": "Kuala Lumpur",
+          "endDate": "2007/12/31"
+        }
+      ],
+      "mentions": []
+    }
+  ]
+}

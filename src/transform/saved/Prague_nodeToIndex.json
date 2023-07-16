@@ -1,0 +1,14 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      {
+        "caseId": "1234",
+        "startDate": "1990/01/01",
+        "endDate": "1991/12/31",
+        "location": "Prague"
+      },
+      0
+    ]
+  ]
+}

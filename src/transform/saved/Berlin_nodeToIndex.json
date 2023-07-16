@@ -1,0 +1,23 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      {
+        "caseId": "1235",
+        "startDate": "1990/01/01",
+        "endDate": "2007/12/31",
+        "location": "Berlin"
+      },
+      0
+    ],
+    [
+      {
+        "caseId": "1237",
+        "startDate": "1997/01/01",
+        "endDate": "2007/12/31",
+        "location": "Berlin"
+      },
+      1
+    ]
+  ]
+}

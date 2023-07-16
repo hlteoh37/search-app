@@ -1,0 +1,23 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      0,
+      {
+        "dataType": "Set",
+        "value": [
+          1
+        ]
+      }
+    ],
+    [
+      1,
+      {
+        "dataType": "Set",
+        "value": [
+          0
+        ]
+      }
+    ]
+  ]
+}

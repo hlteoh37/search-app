@@ -1,0 +1,23 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      0,
+      {
+        "caseId": "1234",
+        "startDate": "1992/01/01",
+        "endDate": "1996/12/31",
+        "location": "Paris"
+      }
+    ],
+    [
+      1,
+      {
+        "caseId": "1236",
+        "startDate": "1991/01/01",
+        "endDate": "2005/12/31",
+        "location": "Paris"
+      }
+    ]
+  ]
+}

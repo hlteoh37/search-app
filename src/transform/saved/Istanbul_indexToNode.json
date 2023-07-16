@@ -1,0 +1,14 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      0,
+      {
+        "caseId": "1234",
+        "startDate": "1997/01/01",
+        "endDate": "2005/12/31",
+        "location": "Istanbul"
+      }
+    ]
+  ]
+}

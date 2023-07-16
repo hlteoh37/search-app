@@ -1,0 +1,14 @@
+{
+  "dataType": "Map",
+  "value": [
+    [
+      0,
+      {
+        "caseId": "1238",
+        "startDate": "1995/01/01",
+        "endDate": "2007/12/31",
+        "location": "Kuala Lumpur"
+      }
+    ]
+  ]
+}
